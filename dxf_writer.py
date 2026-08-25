@@ -11,8 +11,8 @@ Env:
   R2_SECRET_ACCESS_KEY
   R2_BUCKET          default serra-recon
   XAI_API_KEY
-  XAI_MODEL          default grok-2-vision-1212
-  POLL_SECONDS       default 20
+  XAI_MODEL          grok 4.6
+  POLL_SECONDS       default 5
 """
 from __future__ import annotations
 
